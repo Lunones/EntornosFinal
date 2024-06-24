@@ -1,5 +1,8 @@
 package com.github.lunones;
 
+/**
+ * Clase que calcula la distancia Manhattan
+ */
 public class DistanciaManhattan extends Distancia {
 
     @Override
